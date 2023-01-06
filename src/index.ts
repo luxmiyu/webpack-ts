@@ -1,4 +1,4 @@
-import Cat from './Cat'
+import Cat from './animals/Cat'
 
 const cat = new Cat('Tom')
 
